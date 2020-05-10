@@ -1,0 +1,93 @@
+/*Customização menu*/
+nav.navbar.navbar-dark.bg-dark {
+	margin-bottom: 20px;
+}
+
+#menuMargem {
+	margin: 10px;
+}
+
+ul.nav.navbar-nav.navbar-right{
+	display: -webkit-box;
+}
+
+ul.nav.navbar-nav.navbar-right li{
+	margin-left: 20px;
+}
+/*customizando as fotos dentro do card na pagina editar-anuncios.php*/
+.foto_item{
+	/*width: 150px;
+	height: 200px;*/
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+}
+.foto_item img{
+	width: 150px;
+}
+
+/*customizando a tabela de anuncios*/
+.table-hover tbody tr:hover {
+    background-color: rgba(0,0,0,.15) !important;
+}
+
+/*Customização do carousel*/
+/*div.iconeVoltar{
+	font-size: 26px;
+    width: 40px;
+    padding-right: 2px;
+    background-color: #343a40;
+    border-radius: 31px;
+}
+
+div.iconeAvancar{
+	font-size: 26px;
+    width: 40px;
+    padding-left: 2px;
+    background-color: #343a40;
+    border-radius: 31px;   
+}*/
+
+.carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 15%;
+    color: rgba(16, 0, 255, 0.6);
+    text-align: center;
+    opacity: .5;
+}
+
+.carousel-control-next:focus, .carousel-control-next:hover, .carousel-control-prev:focus, .carousel-control-prev:hover {
+    color: #0000ff;
+    text-decoration: none;
+    outline: 0;
+    opacity: .9;
+}
+
+span.navCarouselVoltar {
+	font-size: 50px;
+}
+
+span.navCarouselAvancar {
+	font-size: 50px;
+}
+
+
+
+/*Customisação template produtos*/
+/*Espaçamento entre containers*/
+#containerTempateProduto{
+	margin-top: 25px;
+}
+
+/*Espaçamento do h4 para a tabela*/
+#containerTempateProduto h4{
+	margin-bottom: 25px;
+}
