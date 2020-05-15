@@ -47,3 +47,5 @@ $nomePessoa2->setIdade(30);
 $nomePessoa3 = Pessoa::getInstancia();
 
 echo "Idade :".$nomePessoa->getIdade();
+
+
