@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div style="width: 300px;margin: auto;background-color: #999;padding: 10px;">
-		<h1>Este é um cabeçalho 354</h1>
+		<h1>Este é um cabeçalho 9304</h1>
 		
 		<form method="POST">
 			<input type="text" placeholder="E-mail"><br><br>
