@@ -1,0 +1,22 @@
+<cidades>
+    <cidade>
+      <nome>São Paulo</nome>
+      <uf>SP</uf>
+      <id>244</id>
+    </cidade>
+    <cidade>
+      <nome>São Paulo das Missões</nome>
+      <uf>RS</uf>
+      <id>5019</id>
+    </cidade>
+    <cidade>
+      <nome>São Paulo de Olivença</nome>
+      <uf>AM</uf>
+      <id>5020</id>
+    </cidade>
+    <cidade>
+      <nome>São Paulo do Potengi</nome>
+      <uf>RN</uf>
+      <id>5021</id>
+    </cidade>
+</cidades>
