@@ -8,7 +8,7 @@ try {
 
 if(isset($_POST['email']) && !empty($_POST['email'])) {
 
-	$email = $_POST['email'];
+	$email = addslashes($_POST['email']);
 	$senha = $_POST['senha'];
 
 	$sql = "SELECT * FROM usuarios WHERE email = :email AND senha = :senha";
